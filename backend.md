@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In Scrumanac, we are receiving order of delivery day and night. As a software engineer in Scrumanac, you have to provide a reliable backend system to clients. Your task here is to implement three endpoints to list/place/take orders.
+At Scrumanac, we are receiving order of delivery day and night. As a software engineer in Scrumanac, you have to provide a reliable backend system to clients. Your task here is to implement three endpoints to list/place/take orders.
 
 ## Requirement
 
