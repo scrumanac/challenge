@@ -10,6 +10,6 @@ Choose the challenge most appropriate for you (one is enough):
 - [Site Reliability Engineer](sre.md)
 - [Fresh Graduate](freshgrad.md)
 
-**Questions? Suggestions? We love to hear from you: <techchallenge@scrumanac.com>**
+**Questions? Suggestions? We love to hear from you: <hr.factoryirisii+techchallenge@gmail.com>**
 
 Please state clearly your name and the position yor are applying for in your email.

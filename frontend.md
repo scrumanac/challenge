@@ -56,4 +56,4 @@ If you are so inclined, you can deploy the application onto a remote server (e.g
 
 ​
 
-**Questions? Ping us at: [techchallenge@scrumanac.com](mailto:techchallenge@scrumanac.com)**
+**Questions? Ping us at: [hr.factoryirisii+techchallenge@gmail.com](mailto:hr.factoryirisii+techchallenge@gmail.com)**

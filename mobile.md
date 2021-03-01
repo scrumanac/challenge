@@ -136,7 +136,7 @@ Once you have shared the repository, please drop us an email (see the email addr
 
 **Questions? We love to answer:**
 
-* <techchallenge+ios@scrumanac.com> (iOS Engineer)
-* <techchallenge+android@scrumanac.com> (Android Engineer)
+* <hr.factoryirisii+techchallenge_ios@gmail.com> (iOS Engineer)
+* <hr.factoryirisii+techchallenge_android@gmail.com> (Android Engineer)
 
 Please state clearly your name, platform (iOS/Android) and the position yor are applying for in your email.

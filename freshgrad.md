@@ -56,7 +56,7 @@ order does not exist
 
 # Questions?
 
-Shoot an email at techchallenge@scrumanac.com
+Shoot an email at hr.factoryirisii+techchallenge@gmail.com
 
 Want to go the extra distance? We would love to see how you can add tests, 
 documentation, add ci and include steps on how you could release this to 
@@ -67,4 +67,3 @@ documentation, add ci and include steps on how you could release this to
 When you’re ready to submit your project, send us your project by creating a 
 **private** git repo:
 * Github: Please add `sixtay` as project collaborator
-* Bitbucket: Please give read access to `techchallenge@scrumanac.com`

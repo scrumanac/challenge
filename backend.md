@@ -151,4 +151,4 @@ You are expected to follow the API specification as follows. Your implementation
     - If page or limit is not a valid integer then you should return error response
     - If there is no result, then you should return an empty array json in response body
 
-Questions? We love to answer: techchallenge@scrumanac.com
+Questions? We love to answer: hr.factoryirisii+techchallenge@gmail.com

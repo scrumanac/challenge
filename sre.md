@@ -53,4 +53,4 @@ paths:
     expiration: 5s
 ```
  
- Questions? We love to answer: techchallenge@scrumanac.com
+ Questions? We love to answer: hr.factoryirisii+techchallenge@gmail.com

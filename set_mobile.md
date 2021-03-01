@@ -54,5 +54,5 @@ Image-2B
   * iOS (Xcode Project)
     `https://s3-ap-southeast-1.amazonaws.com/lalamove-mock-api/testable-app/app-tech-ios-challenge-project-20190125.zip`
 
-**We are happy to answer any questions/Submission: <techchallenge@scrumanac.com>**
+**We are happy to answer any questions/Submission: <hr.factoryirisii+techchallenge@gmail.com>**
 
